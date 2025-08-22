@@ -20,5 +20,7 @@ It uses **scikit-learn's Gradient Boosting Classifier** trained on the mushroom 
 - Pandas, NumPy  
 - Scikit-learn (LabelEncoder, OrdinalEncoder, GradientBoostingClassifier)  
 
+---
+
 ## 📂 Dataset
 The app uses the **Mushroom dataset** (from UCI Machine Learning Repository).  
